@@ -29,7 +29,7 @@ namespace Hokemon_R
             set { health = value; }
         }
 
-        public Hokemon() // CONSTRUCTOR method
+        public Hokemon() // CONSTRUCTOR method - notice same name as the CLASS
         {
             provide_name();
             max_health = 100;
